@@ -105,7 +105,7 @@ date,person,miles
 2024-01-03,Charlie,2.5
 ```
 
-Upload this file (Sample file present in public folder)
+Upload this file (or download & use the sample csv file i.e sample.csv)
 
 ##### Verify (Overall Tab)
 
